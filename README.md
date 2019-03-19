@@ -1,6 +1,6 @@
-## Sadeedf
+## React starter
   
-https://sadeed-e9f06.firebaseapp.com/home  
+https://react-starter-402e7.firebaseapp.com/home 
 
 npm run dev - start   
 npm run test - run unit tests  
