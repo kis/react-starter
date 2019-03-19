@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'LeMonde';
+  src: url('./fonts/LeMondeLivreStdBook/LeMondeLivreStd-Book.otf');
+}
+
+@font-face {
+  font-family: 'LeMondeRegular';
+  src: url('./fonts/LeMondeLivreStd-Regular.otf');
+}
+
+@font-face {
+  font-family: 'ProximaNovaRegular';
+  src: url('./fonts/ProximaNovaRegular/ProximaNova.otf');
+}
+
+@font-face {
+  font-family: 'ProximaNovaBold';
+  src: url('./fonts/ProximaNovaBold/ProximaNovaBold.otf');
+}
+
+@font-face {
+  font-family: 'FreightBigProLight';
+  src: url('./fonts/FreightBigProLight/FreightBigProLight.otf');
+}
+
+@font-face {
+  font-family: 'BebasNeue';
+  src: url('./fonts/BebasNeueRegular.ttf');
+}
+
+@font-face {
+  font-family: 'SofiaProBold';
+  src: url('./fonts/SofiaProBold/SofiaPro-Bold.otf');
+}
+
+@font-face {
+  font-family: 'SofiaPro';
+  src: url('./fonts/SofiaPro/SofiaProRegular.otf');
+}

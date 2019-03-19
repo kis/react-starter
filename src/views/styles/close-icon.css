@@ -1,0 +1,12 @@
+.close-icon {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 45px;
+	height: 48px;
+	background-image: url(http://www.imcjms.com/assets/images/close-window.png);
+	background-position: center center;
+	background-size: 25px 25px;
+	background-repeat: no-repeat;
+	cursor: pointer;
+}

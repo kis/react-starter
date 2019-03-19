@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One');
+
+$font-patua: 'SofiaProBold';
+$font-bebas: 'BebasNeue';
+
+$navbar-bg: #0F537D;
+$hover: #092b40;
+$border: #848484;
+$font-color: #767d86;
+
+$hottest-bg: #d34c26;
+$hottest-text: #4A1011;
+
+.blog-page {
+    position: relative;
+	top: 130px;
+	width: 750px;
+	margin: 0 auto;
+	height: calc(100% - 130px);
+}
+
+.nav-button {
+    margin: 6px 0;
+    padding: 10px 30px;
+    line-height: 2em;
+    color: $font-color;
+}
+
+.hot-button {
+    border: 1px solid $hottest-text;
+    margin: 6px 0;
+    color: $hottest-text;
+    padding: 10px;
+    line-height: 2em;
+    &:hover {
+        color: #2f0d0d;
+    }
+}
+
+.body-block {
+    top: 118px;
+    height: calc(100vh - 118px);
+}

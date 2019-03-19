@@ -1,0 +1,42 @@
+$bg-color-red: #d34c26;
+
+%mainfont {
+    font-family: 'BebasNeueRegular';
+    font-style: normal;
+    font-size: 36px;
+}
+
+nav {
+    display: flex;
+    
+    ul {
+        list-style: none;
+        padding: 3px;
+        text-align: center;
+        margin: 0;
+
+        li {
+            display: inline-block;
+            padding: 5px 30px !important;
+
+            &:first-child a {
+                color: #3f6139;
+                font-size: 36px;
+            }
+
+            a {
+                @extend %mainfont;
+                display: block;
+                font-size: 26px;
+                text-decoration: none;
+                outline: none;
+                line-height: 80px;
+                color: #86848a;
+            }
+        }
+    }
+}
+
+.menu.active {
+    max-height: 123px;
+}
